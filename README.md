@@ -14,7 +14,7 @@ Explanation:
 Thank you and enjoy! :)
 
 *NOTE*
-YOU MUST INSALLED ON YOUR KALI LINUX:
+YOU MUST INSTALLED ON YOUR LINUX:
  - Volatility ->  https://github.com/volatilityfoundation/volatility
  - Binwalk -> https://www.kali.org/tools/binwalk/
  - Bulk-extractor -> https://www.kali.org/tools/bulk-extractor/
